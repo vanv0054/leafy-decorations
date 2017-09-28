@@ -37,12 +37,14 @@ html {
 
 .banner {
   background-image: url("../images/banner.jpg");
-  background-size: 30em auto;
+  background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .banner-content {
   color: #fff;
+  padding-top: 16em;
 }
 
 @media only screen and (min-width: 60em) {
