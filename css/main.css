@@ -4,9 +4,8 @@ html {
 
 .masthead {
   background-color: #588477;
-  border-top: solid 3px #2d5a4d;
   border-bottom: solid 3px #2d5a4d;
-
+  background-image: url("../images/leaf-bg.svg");
 }
 
 .logo {
