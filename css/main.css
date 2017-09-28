@@ -7,7 +7,6 @@ html {
   border-bottom: solid 3px #2d5a4d;
   border-top: solid 3px #2d5a4d;
   background-image: url("../images/leaf-bg.svg");
-  background-repeat: round;
 }
 
 .logo {
@@ -37,7 +36,7 @@ html {
 }
 
 .banner {
-  background-image: url("../images/banner.jpg");
+  background-image: linear-gradient(to bottom, rgba(16, 52, 41, 0), rgba(16, 52, 41, 0), rgba(16, 52, 41, 0), rgba(16, 52, 41, .8)), url("../images/banner.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
