@@ -3,11 +3,15 @@ html {
 }
 
 .masthead {
+  background-color: #588477;
+  border-top: solid 3px #2d5a4d;
+  border-bottom: solid 3px #2d5a4d;
 
 }
 
 .logo {
   text-align: center;
+  color: #fff;
 }
 
 .nav {
@@ -16,6 +20,10 @@ html {
 
 .nav a {
   text-decoration: none;
+  background-color: #467366;
+  border: solid 3px #2d5a4d;
+  border-radius: 8px;
+  color: #fff;
 }
 
 .nav a:hover {
